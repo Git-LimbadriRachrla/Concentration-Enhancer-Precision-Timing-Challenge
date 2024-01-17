@@ -15,7 +15,7 @@ public class MyTimerApp extends JFrame {
         setSize(600, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
-        setBackground(Color.BLACK); // Set background color to black
+       
 
         timerLabel = new JLabel("Timer: 0.0s");
         timerLabel.setFont(new Font("Arial", Font.PLAIN, 60));
