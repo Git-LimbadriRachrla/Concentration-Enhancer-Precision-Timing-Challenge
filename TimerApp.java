@@ -1,3 +1,5 @@
+// this program does not show the timer
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
